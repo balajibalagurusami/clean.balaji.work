@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  My portfolio <a href="https://balaji.work" target="_blank">shannonlau.com</a>, built with <a href="https://reactjs.org/" target="_blank">React</a> and hosted with <a href="https://firebase.google.com/" target="_blank">Firebase</a>
+  My portfolio <a href="https://balaji.work" target="_blank">balaji.work</a>, built with <a href="https://reactjs.org/" target="_blank">React</a> and hosted with <a href="https://firebase.google.com/" target="_blank">Firebase</a>
 </p>
 
 ### Setting up and building
