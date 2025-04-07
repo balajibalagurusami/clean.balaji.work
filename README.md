@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src=https://ftp.jfag.in/0:/icons/b.w.png" width="100" />
+  <img alt="Logo" src="https://ftp.jfag.in/0:/icons/b.w.png" width="100" />
 </div>
 <h1 align="center">
   clean.balaji.work
