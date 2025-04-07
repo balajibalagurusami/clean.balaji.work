@@ -1,12 +1,12 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/slau8/shannonlau.com/master/src/assets/shannon-lau.svg" width="100" />
+  <img alt="Logo" src=https://ftp.jfag.in/0:/icons/b.w.png" width="100" />
 </div>
 <h1 align="center">
   shannonlau.com
 </h1>
 
 <p align="center">
-  My portfolio <a href="https://www.shannonlau.com" target="_blank">shannonlau.com</a>, built with <a href="https://reactjs.org/" target="_blank">React</a> and hosted with <a href="https://firebase.google.com/" target="_blank">Firebase</a>
+  My portfolio <a href="https://balaji.work" target="_blank">shannonlau.com</a>, built with <a href="https://reactjs.org/" target="_blank">React</a> and hosted with <a href="https://firebase.google.com/" target="_blank">Firebase</a>
 </p>
 
 ### Setting up and building
